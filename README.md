@@ -1,5 +1,5 @@
 **Status:** Archive (code is provided as-is, no updates expected)
-
+这是一个OpenAI发布的大型语言模型 。你只要给定一两句开头之后，这个模型就可以生成新闻、小说同人等多种不同风格的文字，而且内容看起来非常逼真。
 # gpt-2
 
 Code and models from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
